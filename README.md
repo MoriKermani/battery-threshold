@@ -1,4 +1,4 @@
-# battery-threshold
+# Laptop battrey threshold
 
 
 ## For asus laptops
